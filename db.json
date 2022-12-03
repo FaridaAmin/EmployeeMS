@@ -1,0 +1,75 @@
+{
+  "posts": [
+    {
+      "firstname": "mary",
+      "lastname": "kevin",
+      "birthdate": "1999-7-7",
+      "gender":"f",
+      "education":"diploma",
+      "company":"dfgfgf",
+      "jobExperience":12,
+      "salary":20,
+      "profile":"../../assets/images/Actor4.jpg",
+      "id":1
+    },
+    {
+      "firstname": "joe",
+      "lastname": "Mark",
+      "birthdate": "1999-7-7",
+      "gender":"m",
+      "education":"diploma",
+      "company":"dfgfgf",
+      "jobExperience":5,
+      "salary":5000,
+      "profile":"../../assets/images/Actor1.jpg",
+      "id":2
+    },
+    {
+      "firstname": "leon",
+      "lastname": "navy",
+      "birthdate": "1979-7-7",
+      "gender":"m",
+      "education":"diploma",
+      "company":"dfgfgf",
+      "jobExperience":5,
+      "salary":5000,
+      "profile":"../../assets/images/Actor2.jpg",
+      "id":3
+    },
+    {
+      "firstname": "Matilda",
+      "lastname": "noury",
+      "birthdate": "1988-5-4",
+      "gender":"f",
+      "education":"10th pass",
+      "company":"dfgfgf",
+      "jobExperience":8,
+      "salary":7000,
+      "profile":"../../assets/images/Actor3.jpg",
+      "id":4
+    },
+    {
+      "firstname": "Josh",
+      "lastname": "Nicoles",
+      "birthdate": "1967-2-1",
+      "gender":"m",
+      "education":"PhD",
+      "company":"dfgfgf",
+      "jobExperience":10,
+      "salary":40000,
+      "profile":"../../assets/images/Actor5.jpg",
+      "id":5
+    }
+
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
